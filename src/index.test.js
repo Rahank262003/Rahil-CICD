@@ -3,7 +3,7 @@ var add = require('./calculator/add')
 var subtract = require('./calculator/subtract')
 var multiply = require('./calculator/multiply')
 var divide = require('./calculator/divide');
-const modulo = require('./calculator/modulo');
+var modulo = require('./calculator/modulo');
 
 
 // Test Case 1 (Addition)
